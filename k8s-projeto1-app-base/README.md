@@ -1,4 +1,4 @@
-# Kubernetes - Projeto 1
+# Kubernetes - Desafio 1
 
 ## Deploy de uma aplicação completa
 
